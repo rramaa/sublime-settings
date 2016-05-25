@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Browser Refresh",
+		"Chatscript Syntax",
+		"Color Highlighter",
+		"Colorsublime",
+		"HTML-CSS-JS Prettify",
+		"JsFormat",
+		"JSHint",
+		"JSHint Gutter",
+		"Material Theme",
+		"Non Text Files",
+		"Package Control",
+		"Predawn",
+		"Pretty JSON",
+		"SublimeLinter",
+		"Sublimerge Pro",
+		"Theme - Brogrammer",
+		"Theme - Cyanide",
+		"Theme - Dark Material",
+		"Theme - itg.flat"
+	]
+}

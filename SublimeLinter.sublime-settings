@@ -1,0 +1,11 @@
+{
+	"user":
+	{
+		"debug": true,
+		"lint_mode": "save only",
+		"linters":
+		{
+		},
+		"show_errors_on_save": true
+	}
+}
