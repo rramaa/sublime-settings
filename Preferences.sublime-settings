@@ -1,34 +1,37 @@
 {
-	"theme": "Material-Theme-Darker.sublime-theme",
-    "color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": false,
+	"color_scheme": "Packages/Predawn/predawn.tmTheme",
 	"font_face": "Inconsolata",
+	"font_options":
+	[
+		"gray_antialias"
+	],
 	"font_size": 15,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
 	"overlay_scroll_bars": "enabled",
-    "line_padding_top": 1,
-    "line_padding_bottom": 1,
-    "always_show_minimap_viewport": true,
-    "bold_folder_labels": false,
-    "indent_guide_options": [ "draw_normal", "draw_active" ],
-    "font_options": [ "gray_antialias" ],
-    "material_theme_small_tab"                : false , // Set small tabs
-    "material_theme_disable_fileicons"        : false , // Hide siderbar file type icons
-    "material_theme_disable_folder_animation" : false , // Disable folder animation
-    "material_theme_small_statusbar"          : false , // Set small status bar
-    "material_theme_compact_sidebar"          : true , // Set compact sidebar
-    "material_theme_disable_tree_indicator"   : false , // Disable sidebar file indicator
-    "material_theme_bold_tab"                 : true , // Make the tab labels bolder
-    "material_theme_tabs_separator"           : false , // Show tabs separator, this disables tab hover animation
-    // "material_theme_accent_lime"              : true , // set green lime accent color
-    // "material_theme_accent_purple"            : true , // set purple accent color
-    // "material_theme_accent_red"               : true , // set pale red accent color
-    // "material_theme_accent_orange"            : true , // set orange accent color
-    // "material_theme_accent_yellow"            : true , // set yellow accent color
-    // "material_theme_accent_indigo"            : true , // set indigo accent color
-    "material_theme_panel_separator"          : true , // show bottom panel separator
-    "material_theme_tabs_autowidth"           : false , // Enable autowidth for tabs
-    "material_theme_contrast_mode"            : true , // Enable sidebar and panels contrast mode
+	"predawn_findreplace_small": true,
+	"predawn_quick_panel_small": false,
+	"predawn_sidebar_arrows": true,
+	"predawn_sidebar_large": true,
+	"predawn_sidebar_medium": false,
+	"predawn_sidebar_narrow": false,
+	"predawn_sidebar_small": false,
+	"predawn_sidebar_xlarge": false,
+	"predawn_sidebar_xsmall": false,
+	"predawn_tabs_active_underline": true,
+	"predawn_tabs_large": false,
+	"predawn_tabs_medium": true,
+	"predawn_tabs_small": false,
+	"theme": "predawn.sublime-theme"
 }
