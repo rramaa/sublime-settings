@@ -31,21 +31,4 @@
     "material_theme_panel_separator"          : true , // show bottom panel separator
     "material_theme_tabs_autowidth"           : false , // Enable autowidth for tabs
     "material_theme_contrast_mode"            : true , // Enable sidebar and panels contrast mode
-
-    //Predawn below
-    "predawn_findreplace_small": true,
-	"predawnTemp_quick_panel_small": false,
-	"predawnTemp_sidebar_arrows": true,
-	"predawnTemp_sidebar_large": true,
-	"predawnTemp_sidebar_medium": false,
-	"predawnTemp_sidebar_narrow": false,
-	"predawnTemp_sidebar_small": false,
-	"predawnTemp_sidebar_xlarge": false,
-	"predawnTemp_sidebar_xsmall": false,
-	"predawnTemp_tabs_active_underline": true,
-	"predawnTemp_tabs_large": false,
-	"predawnTemp_tabs_medium": true,
-	"predawnTemp_tabs_small": false,
-	"color_scheme2": "Packages/Predawn/predawn.tmTheme",
-	"theme2": "Packages/Predawn/predawn.tmTheme"
 }
