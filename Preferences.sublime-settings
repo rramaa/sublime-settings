@@ -9,6 +9,10 @@
 		".tmp",
 		"node_modules"
 	],
+	"file_exclude_patterns":
+	[
+		"*.sublime-project"
+	],
 	"font_face": "Inconsolata",
 	"font_options":
 	[
