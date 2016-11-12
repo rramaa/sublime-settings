@@ -9,10 +9,12 @@
 	"folder_exclude_patterns":
 	[
 		".git",
-		"dist",
 		"compiled",
 		".tmp",
-		"node_modules"
+		"node_modules",
+		"dev",
+		"dist",
+		"bower_components"
 	],
 	"font_face": "Inconsolata",
 	"font_options":

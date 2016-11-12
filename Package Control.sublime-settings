@@ -6,9 +6,12 @@
 	"installed_packages":
 	[
 		"Browser Refresh",
-		"Chatscript Syntax",
+		"ChatScript Syntax",
 		"Color Highlighter",
 		"Colorsublime",
+		"Compare Side-By-Side",
+		"Delete Current File",
+		"Git",
 		"HTML-CSS-JS Prettify",
 		"JsFormat",
 		"JSHint",
