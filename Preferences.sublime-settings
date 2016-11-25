@@ -34,7 +34,7 @@
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
-	"theme_agila_sidebar_font_xsmall": true,
 	"overlay_scroll_bars": "enabled",
-	"theme": "Agila.sublime-theme"
+	"theme": "Agila.sublime-theme",
+	"theme_agila_sidebar_font_xsmall": true
 }
