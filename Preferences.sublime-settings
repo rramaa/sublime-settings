@@ -18,7 +18,8 @@
 		"dev",
 		"dist",
 		"bower_components",
-		".sass-cache"
+		".sass-cache",
+		"public/website/"
 	],
 	"font_face": "Inconsolata",
 	"font_options":
